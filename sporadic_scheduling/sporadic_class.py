@@ -1,5 +1,20 @@
-"""Define TaskIn Class"""
-
+"""
+***************************************************************************************
+*
+*                   Sporadic Scheduling
+*
+*
+*  Name : Idaly Ali
+*
+*  GitHub : ottermegazord
+*
+*  Description : Sporadic Scheduling
+*
+*  License: MIT
+*
+*
+***************************************************************************************
+"""
 import random
 
 class Task_Inputs(object):
