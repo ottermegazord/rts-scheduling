@@ -2,7 +2,7 @@
 """
 ***************************************************************************************
 *
-*                   Sporadic Scheduling
+*                   Sporadic Scheduling Demo
 *
 *
 *  Name : Idaly Ali
